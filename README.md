@@ -1,7 +1,7 @@
 # Library Management System
 
 A simple Java-based console application built using Maven to manage books in a library.  
-It allows librarians or users to perform core operations like adding, viewing, searching, and removing books from the system.
+It allows librarians or users to perform core operations like adding, viewing, searching, and removing books from the system.  
 
 ---
 
