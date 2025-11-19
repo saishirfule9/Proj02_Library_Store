@@ -8,7 +8,7 @@ It allows librarians or users to perform core operations like adding, viewing, s
 ## 📘 Project Overview
 
 The Library Management System is designed to handle basic library operations through a console interface.  
-It provides options to manage books effectively with persistent storage using Java collections or database integration (if extended).
+It provides options to manage books effectively with persistent storage using Java collections or database integration (if extended).   
 
 ---
 
